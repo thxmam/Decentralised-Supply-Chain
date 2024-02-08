@@ -6,37 +6,6 @@
   <br>
 </h1>
 
-<p align="center">
-  
-  <a href="https://docs.godechain.com/welcome/">
-    <img src="https://s3.coinmarketcap.com/static-gravity/thumbnail/medium/12b1f4d9727b4aab83cd5398bf6e080d.jpg" width="35" height='35'>
-  </a>
-  <a href="https://soliditylang.org/">
-    <img src="https://github.com/rishav4101/eth-supplychain-dapp/blob/main/images/Solidity.svg" width="80">       
-  </a>
-  <a href="https://reactjs.org/"><img src="https://github.com/rishav4101/eth-supplychain-dapp/blob/main/images/react.png" width="80"></a>
-  
-  <a href="https://www.trufflesuite.com/">
-    <img src="https://github.com/rishav4101/eth-supplychain-dapp/blob/main/images/trufflenew.png" width="50">
-  </a>
-   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.npmjs.com/package/web3">
-    <img src="https://github.com/rishav4101/eth-supplychain-dapp/blob/main/images/web3.jpg" width="60">
-  </a>
-</p>
-
-<h4 align="center">A simple Supply Chain setup with <a href="https://docs.soliditylang.org/en/v0.8.4/" target="_blank">Solidity</a>.</h4>
-
-<p align="center">
-  <a >
-    <img src="https://img.shields.io/badge/dependencies-up%20to%20date-brightgreen.svg">
-       
-  </a>
-  
-</p>
-
-## Demo 
-https://www.canva.com/design/DAFb-i9v_cM/-fK0pKTuOkFq5dfCPQxh_w/watch?utm_content=DAFb-i9v_cM&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
 
 ## Description
 Supply chain is always hard to manage and requires a lot of admistrative machinery. However, when managed with smart contracts using blockchain, a lot of the paperwork is reduced.
