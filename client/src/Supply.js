@@ -34,6 +34,7 @@ function Supply() {
         setloader(true);
         const web3 = window.web3;
         const accounts = await web3.eth.getAccounts();
+        console.log(accounts[0])
         const account = accounts[0];
         setCurrentaccount(account);
         const networkId = await web3.eth.net.getId();
